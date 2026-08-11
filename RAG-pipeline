@@ -1,0 +1,19 @@
+Approved documents / SharePoint / Dataverse / PDFs
+                    ↓
+      Extract, clean, deduplicate, classify
+                    ↓
+  Chunk content + metadata + ACL/security attributes
+                    ↓
+      Embeddings + Azure AI Search / Foundry IQ
+                    ↓
+User prompt → Authenticate user → Search query
+                    ↓
+Permission-trimmed retrieval + optional reranking
+                    ↓
+Prompt = system instructions + retrieved evidence
+                    ↓
+              Foundry model / agent
+                    ↓
+ Answer + citations / fallback / human escalation
+                    ↓
+Evaluation, telemetry, feedback, content improvement
