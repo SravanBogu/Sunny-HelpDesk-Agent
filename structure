@@ -1,0 +1,21 @@
+sunny-helpdesk-agent/
+├── README.md
+├── LICENSE
+├── architecture/
+│   ├── solution-architecture.md
+│   └── production-roadmap.md
+├── prompts/
+│   └── system-instructions.md
+├── knowledge/
+│   ├── access-request-policy.md
+│   ├── escalation-matrix.md
+│   └── hr-onboarding-faq.md
+├── test-cases/
+│   ├── helpdesk-evaluation.json
+│   └── test-results.md
+├── screenshots/
+│   ├── agent-configuration.png
+│   ├── successful-triage.png
+│   └── sensitive-request-escalation.png
+└── security/
+    └── security-and-governance.md
