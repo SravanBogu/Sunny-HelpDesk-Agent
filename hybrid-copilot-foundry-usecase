@@ -1,0 +1,12 @@
+Employee
+   ↓
+Copilot Studio agent
+   ├── SharePoint: HR / IT approved policy Q&A
+   ├── Guided topic: Create helpdesk request
+   └── Agent flow / Power Automate
+             ↓
+        Azure AI Foundry triage service
+             ↓
+        Create ticket in Dataverse / SharePoint List
+             ↓
+        Return reference number and next step
