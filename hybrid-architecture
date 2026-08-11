@@ -1,0 +1,13 @@
+Teams / Web / Copilot Studio
+        ↓
+Power Automate or Custom Connector
+        ↓
+API Management
+        ↓
+Azure Function
+        ↓
+Azure AI Foundry agent
+        ↓
+Dataverse / Dynamics 365 / ServiceNow / SharePoint List
+        ↓
+Application Insights + Azure Monitor
